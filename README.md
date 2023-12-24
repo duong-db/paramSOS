@@ -16,5 +16,5 @@ Let $F\left(a,b,c \right)$ be a non-negative symmetric polynomials of three real
  $$\frac{1}{72}(a-b)^2\left(3a^2+7ab+3ac+3b^2+3bc-c^2 \right)^2+\frac{1}{72}(b-c)^2(-a^2+3ab+3ac+3b^2+7bc+3c^2)^2 +\frac{1}{72}(c-a)^2(3a^2+3ab+7ac-b^2+3bc+3c^2)^2+\frac{5}{54}(a-b)^2(ab-c^2)^2+\frac{5}{54}(b-c)^2(-a^2+bc)^2+\frac{5}{54}(c-a)^2(ac-b^2)^2+ \frac{1}{432}(18a^3-7a^2b-7a^2c-7ab^2-12abc-7ac^2+18b^3-7b^2c-7bc^2+18c^3)^2+\frac{49}{144}(b-c)^2(-c+a)^2(a-b)^2$$
 This is what we desired.
 
-Please refer to the attached PDF file for additional information and examples. \
+Please refer to the attached [PDF](https://github.com/duong-db/paramSOS/blob/main/pdf/paramSOS-A%20demo%20with%20examples.pdf) file for additional information and examples. \
 Have an enjoy! 😊
